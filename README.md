@@ -1,8 +1,12 @@
 # Quill
 
-[Quill](quilleditor.com) is a writer’s tool that allows you to experience your stories. It was designed to help you focus on your work through a clean, simple, and effective user interface.
+[Quill](quilleditor.com) is a writer’s tool that was designed to help you focus on your work through a clean, simple, and effective user interface. Quill foregoes the bells and whistles of heavy-duty writing programmes if favour of just letting you write.
 
-Quill is a commercial software, but is offered for free during Beta testing. This repository was created to foster a community of writers and enable our users to freely discuss bugs, issues, and influence future direction of this project.
+Quill is a commercial software, but is offered for free during Beta Testing.
+
+> What is **Beta Testing**? This means that Quill has all the required functionality and features, but there still may be some bugs that will need to be squashed. The purpose of a Beta test is to release Quill free of charge to a small group of writers and gather feedback.
+
+This repository was created to foster a community of writers and enable our users to freely discuss bugs, issues, and influence future direction of this project.
 
 ## How to report an issue, bug, or suggest a feature
 
