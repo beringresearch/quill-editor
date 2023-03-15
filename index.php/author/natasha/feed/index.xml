@@ -9,8 +9,8 @@
 
 <channel>
 	<title>natasha | Quill</title>
-	<atom:link href="https://quilleditor.com/index.php/author/natasha/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="http://192.168.64.2/index.php/author/natasha/feed/" rel="self" type="application/rss+xml" />
+	<link>https://quilleditor.com/</link>
 	<description>Experience your stories</description>
 	<lastBuildDate>Sat, 25 Feb 2023 01:50:56 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,28 +21,28 @@
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 
 <image>
-	<url>/wp-content/uploads/2023/03/favicon.ico</url>
+	<url>https://quilleditor.com/wp-content/uploads/2023/03/favicon.ico</url>
 	<title>natasha | Quill</title>
-	<link>/</link>
+	<link>https://quilleditor.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Hello world!</title>
-		<link>/index.php/2023/02/25/hello-world/</link>
-					<comments>/index.php/2023/02/25/hello-world/#comments</comments>
+		<link>https://quilleditor.com/index.php/2023/02/25/hello-world/</link>
+					<comments>https://quilleditor.com/index.php/2023/02/25/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[natasha]]></dc:creator>
 		<pubDate>Sat, 25 Feb 2023 01:50:56 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
+		<guid isPermaLink="false">https://quilleditor.com/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/index.php/2023/02/25/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://quilleditor.com/index.php/2023/02/25/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
