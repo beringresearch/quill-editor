@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Uncategorized | Quill</title>
-	<atom:link href="http://192.168.64.2/index.php/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="https://quilleditor.com/index.php/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Experience your stories</description>
 	<lastBuildDate>Sat, 25 Feb 2023 01:50:56 +0000</lastBuildDate>
